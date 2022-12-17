@@ -1,0 +1,92 @@
+.topnav {
+  margin-left: 80%;
+}
+
+.gmail {
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.gorseller {
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.appsbutton {
+  width: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.profilepciture {
+  width: 40px;
+  border-radius: 50px;
+  margin-left: 10px;
+}
+
+.logo {
+  margin-top: 17%;
+  text-align: center;
+}
+
+.search-bar-buttons {
+  text-align: center;
+}
+
+.buttons {
+  background-color: #6b6b6b;
+  border: 1px solid #6b6b6b;
+  border-radius: 4px;
+  color: #e8eaed;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.search-bar {
+  width: 500px;
+  height: 30px;
+  border-radius: 30px;
+  margin-bottom: 5px;
+}
+
+.turkiye {
+  margin-top: 25%;
+}
+
+.karbon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items:center;
+}
+
+.Pb9hCb {
+  height: 20px;
+  margin-right: 5px;
+}
+
+.first-second-links {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center
+  
+}
+
+.first-links {
+  width: 50%;
+  margin-top: 1%;
+}
+
+.second-links {
+  width: 50%;
+  margin-top: 1%;
+}
